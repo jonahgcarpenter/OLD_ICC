@@ -1,3 +1,3 @@
-# OLD
+# OLD_ICC
 
-all my old projects from school, to show experience growth
+all my old projects from ICC
